@@ -1,0 +1,14 @@
+feature
+mean_length
+median_length
+std_length
+min_length
+max_length
+short_message_ratio
+mean_length_rank_in_scenario
+mean_length_pct_rank_in_scenario
+short_message_ratio_rank_in_scenario
+short_message_ratio_pct_rank_in_scenario
+mean_length_z_in_scenario
+median_length_z_in_scenario
+short_message_ratio_z_in_scenario

@@ -1,0 +1,6 @@
+fold_id,test_folder,train_folders,train_rows,test_rows,train_positives,test_positives,test_scenarios
+1,Dataset-1,Dataset-2|Dataset-3|Dataset-4|Dataset-5,88,22,8,2,2
+2,Dataset-2,Dataset-1|Dataset-3|Dataset-4|Dataset-5,88,22,8,2,2
+3,Dataset-3,Dataset-1|Dataset-2|Dataset-4|Dataset-5,88,22,8,2,2
+4,Dataset-4,Dataset-1|Dataset-2|Dataset-3|Dataset-5,88,22,8,2,2
+5,Dataset-5,Dataset-1|Dataset-2|Dataset-3|Dataset-4,88,22,8,2,2

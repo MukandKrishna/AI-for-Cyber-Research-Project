@@ -1,0 +1,11 @@
+folder,scenario,rank_by_message_count,rank_by_duration,rank_by_reciprocity
+Dataset-1,perp_0,2.0,2.0,11.0
+Dataset-1,perp_1,3.0,1.0,4.0
+Dataset-2,perp_2,3.0,3.0,10.0
+Dataset-2,perp_3,4.0,3.0,11.0
+Dataset-3,perp_4,9.0,10.0,11.0
+Dataset-3,perp_5,4.0,2.0,9.0
+Dataset-4,perp_6,9.0,1.0,11.0
+Dataset-4,perp_7,4.0,1.0,10.0
+Dataset-5,perp_8,2.0,2.0,9.0
+Dataset-5,perp_9,2.0,2.0,11.0

@@ -1,0 +1,5 @@
+experiment,fold_id,test_folder,scenario,central_node,contact_node,pair_key,score,score_rank
+mlp_small_no_length,3,Dataset-3,perp_4,58.12.70.0,214.106.104.145,214.106.104.145|58.12.70.0,0.0004581455078543,9.0
+random_forest_no_length,1,Dataset-1,perp_1,208.145.72.7,57.161.181.201,208.145.72.7|57.161.181.201,0.3172804232804233,4.0
+random_forest_no_length,3,Dataset-3,perp_4,58.12.70.0,214.106.104.145,214.106.104.145|58.12.70.0,0.170576479076479,5.0
+random_forest_no_length,4,Dataset-4,perp_6,38.237.149.58,5.120.112.91,38.237.149.58|5.120.112.91,0.4051787148037146,2.0

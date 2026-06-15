@@ -1,0 +1,16 @@
+model,candidate_id,inner_top1_mean,inner_mrr_mean,inner_pr_auc_mean,outer_fold_id,outer_test_folder
+mlp_small,mlp_16_alpha0.01,1.0,1.0,1.0,1,Dataset-1
+random_forest,rf_depth3_leaf2,1.0,1.0,1.0,1,Dataset-1
+svm_rbf,svm_C0.1,1.0,1.0,1.0,1,Dataset-1
+mlp_small,mlp_16_alpha0.01,1.0,1.0,1.0,2,Dataset-2
+random_forest,rf_depth3_leaf2,1.0,1.0,1.0,2,Dataset-2
+svm_rbf,svm_C0.1,1.0,1.0,1.0,2,Dataset-2
+mlp_small,mlp_16_alpha0.01,1.0,1.0,1.0,3,Dataset-3
+random_forest,rf_depth3_leaf2,1.0,1.0,1.0,3,Dataset-3
+svm_rbf,svm_C0.1,0.875,0.90625,0.925,3,Dataset-3
+mlp_small,mlp_16_alpha0.01,1.0,1.0,1.0,4,Dataset-4
+random_forest,rf_depth3_leaf2,1.0,1.0,1.0,4,Dataset-4
+svm_rbf,svm_C0.1,1.0,1.0,1.0,4,Dataset-4
+mlp_small,mlp_16_alpha0.01,1.0,1.0,1.0,5,Dataset-5
+random_forest,rf_depth3_leaf2,1.0,1.0,1.0,5,Dataset-5
+svm_rbf,svm_C0.1,1.0,1.0,1.0,5,Dataset-5

@@ -1,0 +1,16 @@
+model,selected_candidate,outer_fold_id,outer_test_folder,top1_accuracy,mean_reciprocal_rank,mean_positive_rank,precision_at_top1,recall_at_top1,f1_at_top1,roc_auc,pr_auc
+mlp_small,mlp_16_alpha0.01,1,Dataset-1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,rf_depth3_leaf2,1,Dataset-1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+svm_rbf,svm_C0.1,1,Dataset-1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mlp_small,mlp_16_alpha0.01,2,Dataset-2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,rf_depth3_leaf2,2,Dataset-2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+svm_rbf,svm_C0.1,2,Dataset-2,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mlp_small,mlp_16_alpha0.01,3,Dataset-3,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,rf_depth3_leaf2,3,Dataset-3,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+svm_rbf,svm_C0.1,3,Dataset-3,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mlp_small,mlp_16_alpha0.01,4,Dataset-4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,rf_depth3_leaf2,4,Dataset-4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+svm_rbf,svm_C0.1,4,Dataset-4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mlp_small,mlp_16_alpha0.01,5,Dataset-5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+random_forest,rf_depth3_leaf2,5,Dataset-5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+svm_rbf,svm_C0.1,5,Dataset-5,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

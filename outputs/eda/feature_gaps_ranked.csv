@@ -1,0 +1,12 @@
+feature,positive_mean,negative_mean,difference,absolute_difference
+duration_hours,817.5513,696.8378,120.7135,120.7135
+message_count,568.4,498.96,69.44,69.44
+mean_length,20.9027,52.6469,-31.7442,31.7442
+median_length,16.5,44.58,-28.08,28.08
+mean_gap_minutes,92.8679,106.498,-13.63,13.63
+evening_ratio,0.5859,0.2837,0.3022,0.3022
+reciprocity_ratio,0.842,0.944,-0.102,0.102
+night_ratio,0.2664,0.1673,0.0991,0.0991
+weekend_ratio,0.1861,0.2769,-0.0908,0.0908
+message_share_in_scenario,0.1198,0.088,0.0317,0.0317
+bursty_gap_ratio,0.9653,0.9766,-0.0113,0.0113

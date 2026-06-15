@@ -1,0 +1,11 @@
+folder,scenario,data_rows,vic_rows,solution_rows,solutions_inside_vic,vic_inside_data,unique_nodes_in_vic,central_node,central_node_in_every_row,candidate_pairs,positive_pairs,missing_values_in_vic,start_time,end_time
+Dataset-1,perp_0,566770,3512,588,True,True,12,220.63.8.62,True,11,1,0,2008-03-09 14:15:15,2008-03-31 19:53:49
+Dataset-1,perp_1,420077,2427,246,True,True,12,208.145.72.7,True,11,1,0,2009-09-14 23:15:15,2009-10-01 23:59:51
+Dataset-2,perp_2,924316,5387,571,True,True,12,211.126.63.60,True,11,1,0,2009-09-14 16:15:15,2009-10-20 19:28:27
+Dataset-2,perp_3,977404,5664,533,True,True,12,143.62.207.101,True,11,1,0,2008-02-25 17:15:15,2008-04-04 00:37:35
+Dataset-3,perp_4,773107,4063,175,True,True,12,58.12.70.0,True,11,1,0,2008-09-26 02:15:15,2008-10-26 04:26:09
+Dataset-3,perp_5,1205893,7430,724,True,True,12,37.173.66.63,True,11,1,0,2008-01-19 13:15:15,2008-03-06 20:50:45
+Dataset-4,perp_6,2025600,11654,588,True,True,12,38.237.149.58,True,11,1,0,2008-01-20 16:15:15,2008-04-08 22:10:02
+Dataset-4,perp_7,1461470,9452,957,True,True,12,130.1.207.110,True,11,1,0,2008-06-18 13:15:15,2008-08-14 16:02:56
+Dataset-5,perp_8,387410,2517,565,True,True,12,109.245.208.104,True,11,1,0,2008-06-18 14:15:15,2008-07-03 20:55:21
+Dataset-5,perp_9,514400,3474,737,True,True,12,21.134.179.200,True,11,1,0,2008-09-15 15:15:15,2008-10-05 22:55:22
